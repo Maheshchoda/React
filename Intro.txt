@@ -1,0 +1,19 @@
+Frameworks:-
+ -> They provide a complete 'blueprint' for apps.
+ -> "Opinionated":-
+        * "This is how you should design a app"
+
+** React **
+  -> Make it easy to make reusable "view components".
+    * These "encapsulate" logic and HTML into a class.
+  -> Often make it easier to build modular applications.
+
+
+Components:-
+   1.The building blocks of React.
+   2.Pieces of UI & View Logic.
+   3.Classes that know how to render themselves into HTML.
+
+//To start a python server, just navigate to that folder and
+//type the bellow command to start the server
+          python3 -m http.server
